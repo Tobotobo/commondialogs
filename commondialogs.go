@@ -13,7 +13,7 @@
 
 //lint:file-ignore SA1019 syscall.StringToUTF16 と syscall.StringToUTF16Ptr を使用します
 
-package openfiledialog
+package commondialogs
 
 import (
 	"errors"
